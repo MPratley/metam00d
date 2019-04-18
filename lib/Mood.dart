@@ -1,0 +1,1 @@
+enum Mood { verySad, sad, happy, veryHappy }
